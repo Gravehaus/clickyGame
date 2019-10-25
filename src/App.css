@@ -1,6 +1,12 @@
-/*THIS IS GOING TO BE MY CUSTOM*/
+/*THIS IS GOING TO BE MY CUSTOM CSS*/
 
 *{
-  background-color: black;
+ 
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-size: 100%;
+}
+
+body{
+  background-image: url("https://i.redd.it/53dgtjmhzo511.png");
+  background-repeat: no-repeat;
 }
