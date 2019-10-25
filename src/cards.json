@@ -25,7 +25,7 @@
   {
     "id": 3,
     "name": "Mario",
-    "image": "https://www.smashbros.com/wiiu-3ds/sp/images/character/mario/main.png",
+    "image": "http://smashbros-ultimate.com/images/char/mario.png",
     "description": ""
     
   },
@@ -39,14 +39,14 @@
   {
     "id": 5,
     "name": "Yoshi",
-    "image": "https://www.smashbros.com/wiiu-3ds/sp/images/character/yoshi/main.png",
+    "image": "http://smashbros-ultimate.com/images/char/yoshi.png",
     "description": ""
     
   },
   {
     "id": 6,
     "name": "Joker",
-    "image": "https://www.ssbwiki.com/images/1/16/Joker_Thief_-_Persona.png",
+    "image": "http://smashbros-ultimate.com/images/char/joker.png",
     "description": ""
     
   },
