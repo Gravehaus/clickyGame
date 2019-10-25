@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import banner from './components/banner'; ///Game Mat
+import header from './components/header';  ///Keep score in here
 import footer from './components/footer'; //Credit
-import navbar from './components/navbar';  ///Keep score in here
 import CARDS from './cards.json';
 
 
